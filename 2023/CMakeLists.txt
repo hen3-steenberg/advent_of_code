@@ -1,1 +1,1 @@
-add_subdirectory("Puzzle01")
+add_subdirectory("Day01")
